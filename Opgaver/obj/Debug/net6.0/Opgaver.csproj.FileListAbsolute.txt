@@ -1,0 +1,15 @@
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\bin\Debug\net6.0\Opgaver.exe
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\bin\Debug\net6.0\Opgaver.deps.json
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\bin\Debug\net6.0\Opgaver.runtimeconfig.json
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\bin\Debug\net6.0\Opgaver.dll
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\bin\Debug\net6.0\Opgaver.pdb
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.csproj.AssemblyReference.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.AssemblyInfoInputs.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.AssemblyInfo.cs
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.dll
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\refint\Opgaver.dll
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.pdb
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\Opgaver.genruntimeconfig.cache
+C:\Users\majal\OneDrive\Skrivebord\Programmering\wewe\Opgaver\obj\Debug\net6.0\ref\Opgaver.dll
