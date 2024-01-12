@@ -24,8 +24,18 @@ Console.WriteLine("hello my name is" + "\n" + "My name is maja" );
 
 
 Console.WriteLine(15 + 17);
+
+
+int x = Convert.ToInt32(Console.ReadLine());
+int y = Convert.ToInt32(Console.ReadLine());
+
+if(x == y )
+{
+Console.WriteLine($"x = {x} and y = {y} are equel");
+}
+else
+{
+Console.WriteLine($"x = {x} and y = {y} are not equel");   
+}
 */
 
-Console.WriteLine ("Write a Char (one character)");
-
-char inputChar = Convert.ToChar(Console.ReadLine());
